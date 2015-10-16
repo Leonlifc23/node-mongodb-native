@@ -14,6 +14,7 @@
       "lib/db.js",
       "lib/mongo_client.js",
       "lib/mongos.js",
+      "lib/nothisfile.js",
       "lib/read_preference.js",
       "lib/replset.js",
       "lib/server.js",
